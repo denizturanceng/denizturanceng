@@ -1,3 +1,5 @@
+Hi there 👋
+
 🎓 I am currently working as a Research Assistant in Computer Engineering.
 
 🔬 My research interests include Machine Learning, Large Language Models (LLMs), Artificial Neural Networks (ANNs), Embedded Systems, and Web Technologies.
